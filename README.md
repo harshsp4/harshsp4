@@ -32,6 +32,3 @@
 - **InfluenzO** → [influenzo.io](https://influenzo.io)
 - **GitHub** → [github.com/harshsp4](https://github.com/harshsp4)
 
----
-
-*Built with the [Profile Playbook](https://github.com/uditgupta5/github-profile-playbook) • Assets in `/assets` • Replace `id.png` & `right_pointing.png` with your generated character images*
