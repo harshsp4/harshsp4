@@ -27,11 +27,10 @@
   <rect class="bg" width="1200" height="600"/>
   <rect class="dot-pattern" width="1200" height="600"/>
   
-  <!-- Portrait placeholder -->
+  <!-- Portrait - REAL IMAGE -->
   <g transform="translate(880, 80)">
-    <rect x="0" y="0" width="240" height="240" rx="20" fill="#111827" stroke="#247bff" stroke-width="2" stroke-dasharray="8 4"/>
-    <text x="120" y="130" text-anchor="middle" font-family="Mono, monospace" font-size="14" fill="#6b7c9a">id.png</text>
-    <text x="120" y="150" text-anchor="middle" font-family="Mono, monospace" font-size="12" fill="#4a5a7a">(replace with actual)</text>
+    <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5MAAAOTCAYAAAAi71eJAAAgAElEQVR4Xuy9ibbkupEkyLhrLnraSqqZL5hz+g+mVKd7pJrunv//..." width="240" height="240" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="0" width="240" height="240" rx="20" fill="none" stroke="#247bff" stroke-width="2"/>
   </g>
   
   <!-- Greeting -->

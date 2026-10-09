@@ -53,44 +53,49 @@
     </g>
   </g>
   
-  <!-- Right: Interests Carousel -->
+  <!-- Right: Interests Carousel with REAL IMAGES -->
   <g transform="translate(600, 60)">
     <text class="section-title text-main">what i'm into</text>
     <line x1="0" y1="40" x2="120" y2="40" stroke="url(#borderGrad)" stroke-width="3"/>
     
-    <!-- Slide 1 -->
+    <!-- Slide 1: AI Video & Creative Tools -->
     <g class="slide" transform="translate(0, 70)">
       <rect class="card" width="520" height="340" x="0" y="0"/>
-      <text x="30" y="60" class="capability text-crimson">🎬 AI Video & Creative Tools</text>
-      <text x="30" y="95" class="capability-desc text-muted">Obsessed with tools that collapse production time without killing taste. ReelNinja, Sora, Runway, custom pipelines — if it makes video faster, I'm testing it.</text>
-      <text x="30" y="140" class="capability text-accent">Currently exploring:</text>
-      <text x="30" y="170" class="capability-desc text-muted">▸ Motion graphics automation  ▸ AI sound design  ▸ Real-time B-roll</text>
-      <text x="30" y="210" class="capability-desc text-muted">▸ Caption/style transfer  ▸ Editor-in-the-loop workflows</text>
+      <!-- Image background -->
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5MAAAOTCAYAAAAi71eJAAAgAElEQVR4Xuy9ibbkupEkyLhrLnraSqqZL5hz+g+mVKd7pJrunv//..." x="10" y="10" width="500" height="200" preserveAspectRatio="xMidYMid slice" opacity="0.15"/>
+      <rect x="10" y="10" width="500" height="200" rx="8" fill="url(#borderGrad)" opacity="0.1"/>
+      <text x="30" y="230" class="capability text-crimson">🎬 AI Video & Creative Tools</text>
+      <text x="30" y="260" class="capability-desc text-muted">Obsessed with tools that collapse production time without killing taste. ReelNinja, Sora, Runway, custom pipelines — if it makes video faster, I'm testing it.</text>
+      <text x="30" y="300" class="capability text-accent">Currently exploring:</text>
+      <text x="30" y="325" class="capability-desc text-muted">▸ Motion graphics automation  ▸ AI sound design  ▸ Real-time B-roll</text>
+      <text x="30" y="345" class="capability-desc text-muted">▸ Caption/style transfer  ▸ Editor-in-the-loop workflows</text>
       
       <!-- Progress bar -->
-      <rect x="30" y="260" width="460" height="6" rx="3" fill="#1e2a3e"/>
-      <rect x="30" y="260" width="460" height="6" rx="3" fill="url(#borderGrad)">
+      <rect x="30" y="380" width="460" height="6" rx="3" fill="#1e2a3e"/>
+      <rect x="30" y="380" width="460" height="6" rx="3" fill="url(#borderGrad)">
         <animate attributeName="width" from="0" to="460" dur="4s" fill="freeze"/>
       </rect>
-      <text x="30" y="285" class="text-muted" font-size="11">Slide 1 of 3 · Auto-advances every 4s</text>
+      <text x="30" y="405" class="text-muted" font-size="11">Slide 1 of 3 · Auto-advances every 4s</text>
     </g>
     
-    <!-- Slide 2 -->
+    <!-- Slide 2: Startups & Building in Public -->
     <g class="slide" transform="translate(0, 70)" opacity="0">
       <rect class="card" width="520" height="340" x="0" y="0"/>
-      <text x="30" y="60" class="capability text-crimson">🚀 Startups & Building in Public</text>
-      <text x="30" y="95" class="capability-desc text-muted">Co-founded InfluenzO (NVIDIA Inception, IIT Delhi Blueprint, 2 govt grants). Love the messy middle — the pivots, the 2am decisions, the user feedback that changes everything.</text>
-      <text x="30" y="150" class="capability text-accent">Focus areas:</text>
-      <text x="30" y="180" class="capability-desc text-muted">▸ Founder-led brand  ▸ DeepTech commercialization  ▸ MeitY GENESIS</text>
-      <text x="30" y="210" class="capability-desc text-muted">▸ Punjab ecosystem  ▸ Content-first growth  ▸ Community moats</text>
-      <rect x="30" y="260" width="460" height="6" rx="3" fill="#1e2a3e"/>
-      <rect x="30" y="260" width="0" height="6" rx="3" fill="url(#borderGrad)">
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5MAAAOTCAYAAAAi71eJAAAgAElEQVR4Xuy9ibbkupEkyLhrLnraSqqZL5hz+g+mVKd7pJrunv//..." x="10" y="10" width="500" height="200" preserveAspectRatio="xMidYMid slice" opacity="0.15"/>
+      <rect x="10" y="10" width="500" height="200" rx="8" fill="url(#borderGrad)" opacity="0.1"/>
+      <text x="30" y="230" class="capability text-crimson">🚀 Startups & Building in Public</text>
+      <text x="30" y="260" class="capability-desc text-muted">Co-founded InfluenzO (NVIDIA Inception, IIT Delhi Blueprint, 2 govt grants). Love the messy middle — the pivots, the 2am decisions, the user feedback that changes everything.</text>
+      <text x="30" y="310" class="capability text-accent">Focus areas:</text>
+      <text x="30" y="335" class="capability-desc text-muted">▸ Founder-led brand  ▸ DeepTech commercialization  ▸ MeitY GENESIS</text>
+      <text x="30" y="355" class="capability-desc text-muted">▸ Punjab ecosystem  ▸ Content-first growth  ▸ Community moats</text>
+      <rect x="30" y="380" width="460" height="6" rx="3" fill="#1e2a3e"/>
+      <rect x="30" y="380" width="0" height="6" rx="3" fill="url(#borderGrad)">
         <animate attributeName="width" from="0" to="460" begin="4s" dur="4s" fill="freeze"/>
       </rect>
-      <text x="30" y="285" class="text-muted" font-size="11">Slide 2 of 3</text>
+      <text x="30" y="405" class="text-muted" font-size="11">Slide 2 of 3</text>
     </g>
     
-    <!-- Slide 3 -->
+    <!-- Slide 3: Internet Culture & Creative Experiments -->
     <g class="slide" transform="translate(0, 70)" opacity="0">
       <rect class="card" width="520" height="340" x="0" y="0"/>
       <text x="30" y="60" class="capability text-crimson">🎨 Internet Culture & Creative Experiments</text>

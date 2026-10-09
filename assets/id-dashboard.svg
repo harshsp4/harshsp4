@@ -65,11 +65,10 @@
       <!-- Top foil strip -->
       <rect class="foil" x="-120" y="-80" width="240" height="6" rx="12 12 0 0"/>
       
-      <!-- Portrait placeholder -->
+      <!-- Portrait - REAL IMAGE -->
       <g transform="translate(-120, -70)">
-        <rect x="10" y="10" width="140" height="140" rx="8" fill="#111827" stroke="#247bff" stroke-width="1.5" stroke-dasharray="6 3"/>
-        <text x="80" y="85" text-anchor="middle" font-family="Mono, monospace" font-size="11" fill="#6b7c9a">id.png</text>
-        <text x="80" y="100" text-anchor="middle" font-family="Mono, monospace" font-size="9" fill="#4a5a7a">(replace)</text>
+        <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5MAAAOTCAYAAAAi71eJAAAgAElEQVR4Xuy9ibbkupEkyLhrLnraSqqZL5hz+g+mVKd7pJrunv//..." x="10" y="10" width="140" height="140" preserveAspectRatio="xMidYMid slice"/>
+        <rect x="10" y="10" width="140" height="140" rx="8" fill="none" stroke="#247bff" stroke-width="1.5"/>
       </g>
       
       <!-- Name -->
