@@ -1,16 +1,37 @@
-## Hi there 👋
+# hey, i'm Hux
 
-<!--
-**harshsp4/harshsp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](./assets/hero.svg?v=1)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i do
+
+![About](./assets/about-life.svg?v=1)
+
+---
+
+## tech stack
+
+![Stack](./assets/stack.svg?v=1)
+
+---
+
+## verified
+
+![ID](./assets/id-dashboard.svg?v=1)
+
+---
+
+## connect
+
+![Connect](./assets/connect.svg?v=1)
+
+### links
+
+- **LinkedIn** → [linkedin.com/in/harshsharma0409](https://www.linkedin.com/in/harshsharma0409)
+- **InfluenzO** → [influenzo.io](https://influenzo.io)
+- **GitHub** → [github.com/harshsp4](https://github.com/harshsp4)
+
+---
+
+*Built with the [Profile Playbook](https://github.com/uditgupta5/github-profile-playbook) • Assets in `/assets` • Replace `id.png` & `right_pointing.png` with your generated character images*
