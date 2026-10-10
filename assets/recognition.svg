@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 460" role="img" aria-label="Recognition for Influenzo: NVIDIA Inception, IIT Delhi Blueprint, IIT Guwahati UDGAM finalist, DeepTech recognition, two government grants, MeitY GENESIS and Punjab ecosystem support. Flagship product ReelNinja Studio.">
+  <style>
+    .sw-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sw-sans { font-family: Helvetica, Arial, sans-serif; }
+    .sw-node { animation: sw-fade 0.5s ease-out both; }
+    @keyframes sw-fade { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .sw-node { animation: none; } }
+  </style>
+
+  <rect width="1040" height="460" fill="#0b0d0c"/>
+  <text x="40" y="52" class="sw-mono" font-size="14" fill="#22e67c">WHERE WE'VE BEEN RECOGNIZED</text>
+  <line x1="40" y1="68" x2="1000" y2="68" stroke="#2a2a33"/>
+
+  <g class="sw-node" style="animation-delay:0.08s">
+    <rect x="40" y="102" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="110" class="sw-sans" font-size="16" fill="#f4f1ea">NVIDIA Inception (NVIDIA for Startups)</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.15000000000000002s">
+    <rect x="40" y="136" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="144" class="sw-sans" font-size="16" fill="#f4f1ea">IIT Delhi Blueprint recognition</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.22000000000000003s">
+    <rect x="40" y="170" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="178" class="sw-sans" font-size="16" fill="#f4f1ea">IIT Guwahati UDGAM finalist</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.29000000000000004s">
+    <rect x="40" y="204" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="212" class="sw-sans" font-size="16" fill="#f4f1ea">Recognized among leading DeepTech startups</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.36000000000000004s">
+    <rect x="40" y="238" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="246" class="sw-sans" font-size="16" fill="#f4f1ea">Two government startup grants</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.43000000000000005s">
+    <rect x="40" y="272" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="280" class="sw-sans" font-size="16" fill="#f4f1ea">MeitY GENESIS ecosystem support</text>
+  </g>
+  <g class="sw-node" style="animation-delay:0.5s">
+    <rect x="40" y="306" width="8" height="8" fill="#22e67c"/>
+    <text x="64" y="314" class="sw-sans" font-size="16" fill="#f4f1ea">Punjab startup ecosystem support</text>
+  </g>
+
+  <rect x="40" y="370" width="960" height="60" fill="none" stroke="#22e67c" stroke-width="2"/>
+  <text x="64" y="396" class="sw-mono" font-size="13" fill="#22e67c">FLAGSHIP PRODUCT</text>
+  <text x="64" y="418" class="sw-sans" font-size="17" font-weight="bold" fill="#f4f1ea">ReelNinja Studio</text>
+  <text x="300" y="418" class="sw-sans" font-size="15" fill="#b8b6bd">AI-native short-form video production agency</text>
+</svg>
