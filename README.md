@@ -1,55 +1,28 @@
-# Hey, I'm Harsh. Most people call me Hux.
+# Harsh Sharma (Hux)
 
-<p align="center">
-  <img src="hux-03.jpg" width="320" alt="Harsh Sharma (Hux), CMO and co-founder of Influenzo" />
-</p>
+![Hero](./assets/hero.svg?v=1)
 
-I'm the CMO and co-founder of **Influenzo**, sitting between creative direction, marketing, and product. A creative marketer who thinks like a founder and builds like a technologist.
-
-## Quick facts
-
-- **Role:** CMO & Co-Founder, Influenzo Technologies
-- **Company:** [Influenzo](https://influenzo.io)
-- **Based in:** Chandigarh, India
-- **LinkedIn:** [linkedin.com/in/harshsharma0409](https://www.linkedin.com/in/harshsharma0409)
+I'm the CMO and co-founder of **Influenzo**, working between creative direction, marketing, and product. I think like a founder and build like a technologist.
 
 ## What we're building
 
-Influenzo is an AI company working on the future of content creation. We're building an AI-powered production ecosystem that handles the parts of video production that slow creators down — trend discovery, scripting, editing, b-roll selection, stock media, motion graphics, sound effects, captions. We want to clear out everything standing between an idea and a finished video, while leaving the creative calls to the person making it.
+Influenzo is an AI company working on content creation. Our flagship product, **ReelNinja Studio**, edits video from a voice track or raw footage: motion graphics, b-roll, sound effects, captions, and color. You stay in control at every step.
 
-**ReelNinja Studio** is our AI video-editing product. Feed it a voice track or raw footage and it edits the video: motion graphics, b-roll and image selection, sound effects, captions, color. You can take manual control at any point.
+## Build log
 
-## Where we've been recognized
+![Build log](./assets/log.svg?v=1)
 
-- NVIDIA Inception (NVIDIA for Startups)
-- IIT Delhi Blueprint recognition
-- IIT Guwahati UDGAM finalist
-- Recognized among leading DeepTech startups
-- Two government startup grants
-- MeitY GENESIS ecosystem support
-- Punjab startup ecosystem support
+## Recognition
 
-## How I think about this work
+![Recognition](./assets/recognition.svg?v=1)
 
-Good technology still needs good storytelling. A technically impressive product doesn't automatically mean people understand it, or care. A few rules I build around:
+## Interests
 
-- Make it understandable — complex tech should feel simple once it's explained
-- Make it interesting — information alone doesn't earn attention
-- Make it human — people connect with people, not corporate language
-- Make it visually memorable — generic content doesn't stick
-- Experiment aggressively — try the weird format before the safe one
+AI, content systems, brand building, internet culture, startup lessons, and founder-led content. I'd rather build something people use and talk about than something that only checks a roadmap box.
 
-<p align="center">
-  <img src="hux-04.jpg" width="320" alt="Harsh Sharma laughing" />
-</p>
-
-## What I'm into
-
-AI, content systems, brand building, internet culture, startup lessons, founder-led content. I'd rather build something people actually use and talk about than something that just checks boxes on a roadmap.
-
-## Let's talk
-
-If you're building something in AI, content, or brand, I want to hear about it.
+## Connect
 
 - LinkedIn: [linkedin.com/in/harshsharma0409](https://www.linkedin.com/in/harshsharma0409)
 - Influenzo: [influenzo.io](https://influenzo.io)
+
+If you're building something in AI, content, or brand, I want to hear about it.
